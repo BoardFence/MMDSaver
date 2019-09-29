@@ -28,3 +28,6 @@ python -m http.server 8000
 ## 4. Check model was saved
 - Reload page, and there must be mmd model that you finarly saved.
 - Close page or browser, and if you reopen the page, there must be mmd model that you finarly saved.
+
+# Todo
+- texture support
